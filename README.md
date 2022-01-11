@@ -12,8 +12,8 @@
 </div>
   
   <a href="https://github.com/JoaoLucasViegas/app-nyt-books">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoLucasViegas&repo=app-nyt-books" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoLucasViegas&repo=app-nyt-books&theme=shades-of-purple" />
 </a>
 <a href="https://github.com/JoaoLucasViegas/app-kotlin-dice-roller">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoLucasViegas&repo=app-kotlin-dice-roller" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoLucasViegas&repo=app-kotlin-dice-roller&theme=shades-of-purple" />
 </a>
