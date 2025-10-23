@@ -10,13 +10,7 @@
 
 - 👯 I'm looking to collaborate on **Any given project that brings me joy, fun and plenty of headaches...**
 
-- 🤝 I'm looking for help with **Planning and designing systems.**
-
-- 💬 Ask me about **How to write, design and develop systems in general: Clean Architecture, Clean Code, Design Patterns**
-
 - 📫 How to reach me **santosviegasj@gmail.com**
-
-- ⚡ Fun fact **Did you know that Pygame is a better UI toolkit than Tkinter? Even though Tkinter is easier on prototype phase, the complexity of which is required to maintain the same UI gets costly every time you add more data into it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
