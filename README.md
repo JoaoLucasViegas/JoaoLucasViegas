@@ -15,4 +15,4 @@
 <a href="https://github.com/JoaoLucasViegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JoaoLucasViegas" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoLucasViegas&show_icons=true&locale=en&layout=compact" alt="JoaoLucasViegas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoLucasViegas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JoaoLucasViegas" /></p>
