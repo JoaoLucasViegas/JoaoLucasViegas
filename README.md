@@ -2,8 +2,6 @@
 
 ### Aspiring to be a Software Architect that builds reliable and well-designed systems.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoLucasViegas&label=Profile views&color=0e75b6&style=flat" alt="JoaoLucasViegas" /> </p>
-
 - 🔭 I'm currently working on **Creating a few (plenty) "prototype-wares" in Rust while I try to figure how software architecture works. Meantime I'll be reading books about how NOT to make "crapware" in general.**
 
 - 🌱 I'm currently learning **Rust (Easy, reliable and fun). Side projects being done on any given tech I feel like so that can be: Java/Kotlin; C#; Python; C++; PHP; Node.js; Flutter.**
