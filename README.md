@@ -1,22 +1,22 @@
 # Hi 👋, I'm João Lucas Viegas
 
-### Aspiring to be a Software Architect
+### Aspiring to be a Software Architect that builds reliable and well-designed systems.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoLucasViegas&label=Profile views&color=0e75b6&style=flat" alt="JoaoLucasViegas" /> </p>
 
-- 🔭 I'm currently working on **Creating few (plenty) "crapware" in Rust while I try to figure how software architecture works. Meantime I'll be reading books about how NOT to make "crapware" in general.**
+- 🔭 I'm currently working on **Creating a few (plenty) "prototype-wares" in Rust while I try to figure how software architecture works. Meantime I'll be reading books about how NOT to make "crapware" in general.**
 
-- 🌱 I'm currently learning **Rust (Easy, reliable and fun). Side projects being done on any given tech I feel like so... that can be: Java/Kotlin; C#; Python; C++; PHP; Node.js; Flutter (it's fashion).**
+- 🌱 I'm currently learning **Rust (Easy, reliable and fun). Side projects being done on any given tech I feel like so that can be: Java/Kotlin; C#; Python; C++; PHP; Node.js; Flutter.**
 
 - 👯 I'm looking to collaborate on **Any given project that brings me joy, fun and plenty of headaches...**
 
 - 🤝 I'm looking for help with **Planning and designing systems.**
 
-- 💬 Ask me about **How to write code in general or how to develop a system: Clean Architecture; Clean Code; How to design systems.**
+- 💬 Ask me about **How to write, design and develop systems in general: Clean Architecture, Clean Code, Design Patterns**
 
 - 📫 How to reach me **santosviegasj@gmail.com**
 
-- ⚡ Fun fact **Did you know that Pygame is a better UI toolkit than Tkinter? Even though Tkinter is easier to prototype, the complexity of which is required to maintain the same UI get very costly once you add data.**
+- ⚡ Fun fact **Did you know that Pygame is a better UI toolkit than Tkinter? Even though Tkinter is easier on prototype phase, the complexity of which is required to maintain the same UI gets costly every time you add more data into it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
