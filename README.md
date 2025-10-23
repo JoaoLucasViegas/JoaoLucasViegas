@@ -4,9 +4,9 @@
 
 - 🔭 I'm currently working on **creating a few implementations in Rust, Python and C++ while I try to figure out designs of software architecture. In the meantime I'll be reading books about how NOT to make "crapware".**
 
-- 🌱 I'm currently studying **Rust (easy, reliable and fun), Software Designs and DevOps**
+- 🌱 I'm currently studying **Rust (easy, reliable and fun), Software Designs and DevOps.**
 
-- 🛠️ I develop softwares with **Rust; Java/Kotlin; C/C++/C#; Python; PHP; Node.js; Flutter.**
+- 🛠️ I develop softwares with **Rust; Java/Kotlin; C/C++; C#; Python; PHP; Node.js; Flutter.**
 
 - 👯 I'm looking to collaborate on **Any given project that brings me joy, fun and plenty of headaches...**
 
