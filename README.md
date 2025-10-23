@@ -2,9 +2,11 @@
 
 ### Aspiring to become a Software Architect
 
-- 🔭 I'm currently working on **Creating a few implementations in Rust while I try to figure how software architecture works. Meantime I'll be reading books about how NOT to make "crapware".**
+- 🔭 I'm currently working on **creating a few implementations in Rust, Python and C++ while I try to figure out designs of software architecture. In the meantime I'll be reading books about how NOT to make "crapware".**
 
-- 🌱 I'm currently learning **Rust (Easy, reliable and fun). Sideprojects developed with (one, multiple): Java/Kotlin; C#; Python; C++; PHP; Node.js; Flutter.**
+- 🌱 I'm currently studying **Rust (easy, reliable and fun), Software Designs and DevOps**
+
+- 🛠️ I develop softwares with **Rust; Java/Kotlin; C/C++/C#; Python; PHP; Node.js; Flutter.**
 
 - 👯 I'm looking to collaborate on **Any given project that brings me joy, fun and plenty of headaches...**
 
