@@ -2,15 +2,15 @@
 
 ### Aspiring to become a Software Architect
 
-- 🔭 I'm currently working on **creating a few implementations in Rust, Python and C++ while I try to figure out designs of software architecture. In the meantime I'll be reading books about how NOT to make "crapware".**
+- 🔭 I'm currently working on **low level implementations in Rust, Python and C++.**
 
-- 🌱 I'm currently studying **Rust (easy, reliable and fun), Software Designs and DevOps.**
+- 🌱 I'm currently studying **Software Architecture, Hardware Design.**
 
-- 🛠️ I develop softwares with **Rust; Java/Kotlin; C/C++; C#; Python; PHP; Node.js; Flutter.**
+- 🛠️ I develop softwares with **C/C++; Python; Java/Kotlin; C#; PHP; NodeJS.**
 
-- 👯 I'm looking to collaborate on **Any given project that brings me joy, fun and plenty of headaches...**
+- 👯 I'm looking to collaborate on **any project that is challenging and requires a lot of problems to be solved.**
 
-- 📫 How to reach me **santosviegasj@gmail.com**
+- 📫 Reach me at **santosviegasj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
