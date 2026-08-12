@@ -1,20 +1,17 @@
 # Hi 👋, I'm João Lucas Viegas
 
-### Aspiring to become a Software Architect
+### Inspired to Work with Tech
 
-- 🔭 I'm currently working on **low level implementations in Rust, Python and C++.**
+- 🔭 Building system design solutions for **Electrical Services with Rust and C.**
 
-- 🌱 I'm currently studying **Software Architecture, Hardware Design.**
+- 🌱 Developing expertise in **Hardware Architecture and Hardware Design.**
 
-- 🛠️ I develop softwares with **C/C++; Python; Java/Kotlin; C#; PHP; NodeJS.**
+- 🛠️ Worked across **C/C++**, Rust, **Python**, **Java**/Kotlin, C#, PHP, and Node.js.
 
-- 👯 I'm looking to collaborate on **any project that is challenging and requires a lot of problems to be solved.**
+- 👀 Looking to collaborate and resolve problems using emerging technologies.
 
-- 📫 Reach me at **santosviegasj@gmail.com**
+- ✉ Reach me at **santosviegasj@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/JoaoLucasViegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JoaoLucasViegas" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoLucasViegas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JoaoLucasViegas" /></p>
+- <a href="https://www.linkedin.com/in/joaolucasviegas-jlsv/" target="blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /> Connect with me at Linkedin
+</a>
